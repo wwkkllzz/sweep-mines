@@ -1,0 +1,3 @@
+﻿  game.c
+D:\c语言项目\SaoleiProject1\game.c(49): warning C4715: “get_mine_count”: 不是所有的控件路径都返回值
+  SaoleiProject1.vcxproj -> D:\c语言项目\SaoleiProject1\x64\Debug\SaoleiProject1.exe
